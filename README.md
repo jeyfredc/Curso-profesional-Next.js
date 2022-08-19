@@ -23,3 +23,7 @@ Agregamos otro archivo que se llama **jsconfig.json** donde se agregan las confi
 
 Haremos uso de varias herramientas de iconos que utiliza tailwind UI, asi que instalamos `npm install @heroicons/react`
 Otro recurso que utilizaremos con tailwind UI es el siguiente `npm install @headlessui/react`
+
+Instalamos tambien `npm install js-cookie axios` esta libreria es para setear cookies en la aplicacion y hacer peticiones con axiones
+
+Instalamos `npm install chart.js react-chartjs-2` esta libreria es para crear graficos
