@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "baseUrl": "src", //Esto se utiliza para indicar que nuestra carpeta principal es src por defecto, al crear Next esta carpeta no existe lo que hacemos es crearla y meter todo lo necesario del proyecto dentro de esta
+        "paths": { //Son los alias para poder acceder a cada uno de los recursos que necesitemos, assets, styles, etc
+            "@styles/*": ["styles/*"],
+        }
+    }
+}
