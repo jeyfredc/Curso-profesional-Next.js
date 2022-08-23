@@ -27,3 +27,5 @@ Otro recurso que utilizaremos con tailwind UI es el siguiente `npm install @head
 Instalamos tambien `npm install js-cookie axios` esta libreria es para setear cookies en la aplicacion y hacer peticiones con axiones
 
 Instalamos `npm install chart.js react-chartjs-2` esta libreria es para crear graficos
+
+En la parte de configuración  de vercel, en los settings hay una opcion de environment variables, como estan en el proyecto en un archivo oculto el cual es .env.local el api que se encuentra en el archivo hay que agregarlo a estas opciones, en la parte de NAME se nombrea **NEXT_PUBLIC_API_URL** y en la parte de VALUE el api que este dentro de archivo y luego seleccion **Add**
